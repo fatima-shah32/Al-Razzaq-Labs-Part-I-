@@ -1,0 +1,2 @@
+Editing with vi is a bit different.
+Remember to switch modes.
