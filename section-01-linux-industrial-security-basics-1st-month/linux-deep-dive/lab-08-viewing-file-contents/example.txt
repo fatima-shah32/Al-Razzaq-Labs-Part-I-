@@ -1,0 +1,15 @@
+Linux is a powerful operating system.
+Linux is widely used in servers.
+Ubuntu is a Linux distribution.
+System administrators use Linux daily.
+Linux supports multi-user environments.
+This is line 6.
+This is line 7.
+This is line 8.
+This is line 9.
+This is line 10.
+This is line 11.
+This is line 12.
+This is line 13.
+This is line 14.
+This is line 15.
