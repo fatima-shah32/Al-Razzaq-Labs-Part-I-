@@ -1,0 +1,8 @@
+2026-06-02 17:11:36,191 - INFO - Kept: ./test_directory/new.txt
+2026-06-02 17:11:36,191 - INFO - Kept: ./test_directory/cleanup_log.txt
+2026-06-02 17:11:36,191 - INFO - Deleted: ./test_directory/old2.txt
+2026-06-02 17:11:36,191 - INFO - Deleted: ./test_directory/old1.txt
+2026-06-02 17:11:36,191 - INFO - Kept: ./test_directory/cleanup_script.py
+2026-06-02 17:11:36,794 - INFO - Kept: ./test_directory/new.txt
+2026-06-02 17:11:36,795 - INFO - Kept: ./test_directory/cleanup_log.txt
+2026-06-02 17:11:36,795 - INFO - Kept: ./test_directory/cleanup_script.py
