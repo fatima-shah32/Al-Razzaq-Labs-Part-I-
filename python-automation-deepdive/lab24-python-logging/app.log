@@ -1,0 +1,5 @@
+2026-06-02 17:46:19,864 - DEBUG - This is a DEBUG message (used for debugging)
+2026-06-02 17:46:19,864 - INFO - This is an INFO message (general information)
+2026-06-02 17:46:19,865 - WARNING - This is a WARNING message (something unexpected)
+2026-06-02 17:46:19,865 - ERROR - This is an ERROR message (something went wrong)
+2026-06-02 17:46:19,865 - CRITICAL - This is a CRITICAL message (serious failure)
