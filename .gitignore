@@ -2,3 +2,14 @@ my_deeplearning_env/
 Deep-Learning/**/my_deeplearning_env/
 __pycache__/
 *.pyc
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+my_deeplearning_env/
+
+# Jupyter
+.ipynb_checkpoints/
