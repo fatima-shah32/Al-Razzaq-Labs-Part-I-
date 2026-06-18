@@ -1,0 +1,4 @@
+Hello World
+This is a vi editor lab.
+Linux administration is fun.y
+/Linux:%s/Linux/Ubuntu/g
