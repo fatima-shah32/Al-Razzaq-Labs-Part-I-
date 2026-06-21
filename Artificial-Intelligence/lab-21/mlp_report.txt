@@ -1,0 +1,12 @@
+Lab 21: Basic MLP with Keras/TensorFlow
+
+Dataset: MNIST handwritten digits
+Model: Sequential MLP
+
+Layers Used:
+- Flatten
+- Dense 128 ReLU
+- Dense 10 Softmax
+
+Test Loss: 0.0814
+Test Accuracy: 0.9756
