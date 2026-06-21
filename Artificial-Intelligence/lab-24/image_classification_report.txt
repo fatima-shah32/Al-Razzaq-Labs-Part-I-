@@ -1,0 +1,13 @@
+Lab 24: Basic Image Classification Concept
+
+Dataset: MNIST handwritten digits
+Model: Simple CNN
+
+CNN Layers Used:
+- Conv2D
+- MaxPooling2D
+- Flatten
+- Dense
+
+Test Loss: 0.053
+Test Accuracy: 0.983
