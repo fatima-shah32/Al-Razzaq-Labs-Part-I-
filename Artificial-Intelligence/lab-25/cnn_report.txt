@@ -1,0 +1,9 @@
+Lab 25: Intro to Convolutional Neural Networks
+
+Dataset: MNIST handwritten digits
+Model: Simple CNN using Conv2D, MaxPooling2D, Flatten, Dense
+
+Test Loss: 0.073
+Test Accuracy: 0.977
+
+Conclusion: CNN successfully classified MNIST digit images.
