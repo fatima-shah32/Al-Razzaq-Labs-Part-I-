@@ -1,0 +1,18 @@
+Lab 34: Model Interpretability
+
+Model Used: RandomForestClassifier
+Model Accuracy: 1.0
+
+Sample Prediction Explanation
+Sample Index: 0
+Predicted Class: versicolor
+Actual Class: versicolor
+
+Feature Importance:
+          Feature  Importance
+ petal width (cm)    0.433982
+petal length (cm)    0.417308
+sepal length (cm)    0.104105
+ sepal width (cm)    0.044605
+
+SHAP explains how each feature contributes to model predictions.
