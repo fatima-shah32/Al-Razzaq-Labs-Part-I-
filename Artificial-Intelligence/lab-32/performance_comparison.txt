@@ -1,0 +1,6 @@
+Lab 32: Data Augmentation Concept
+
+Accuracy without augmentation: 0.9685
+Accuracy with augmentation: 0.9648
+
+Data augmentation helps increase dataset diversity and reduce overfitting.
