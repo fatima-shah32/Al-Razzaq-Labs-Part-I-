@@ -1,0 +1,4 @@
+Model,Technique,Accuracy
+Decision Tree,Single Model,1.0
+Random Forest,Bagging,1.0
+Gradient Boosting,Boosting,1.0
