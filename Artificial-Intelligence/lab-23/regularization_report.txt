@@ -1,0 +1,11 @@
+Lab 23: Early Stopping and Model Regularization
+
+Dataset: MNIST
+Technique 1: Early Stopping
+Technique 2: L2 Regularization
+
+Without L2 - Loss: 0.061, Accuracy: 0.982
+With L2    - Loss: 0.425, Accuracy: 0.929
+
+Early stopping stopped training when validation loss stopped improving.
+L2 regularization penalized large weights to reduce overfitting.
