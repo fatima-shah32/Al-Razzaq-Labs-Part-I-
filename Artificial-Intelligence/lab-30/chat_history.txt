@@ -1,0 +1,11 @@
+Lab 30 Chatbot Conversation Log
+
+You: hello
+Bot: Hi there! How can I help you today?
+
+You: how are you
+Bot: I am doing great. Thanks for asking!
+
+You: bye
+Bot: Goodbye! Have a great day!
+
