@@ -1,0 +1,8 @@
+Lab 26: Basic Transfer Learning Concept
+
+Pre-trained Model: MobileNetV2
+Dataset Classes: circle and square
+Base model layers were frozen.
+Custom classification layers were added.
+Final Training Accuracy: 1.0000
+Final Training Loss: 0.0023
