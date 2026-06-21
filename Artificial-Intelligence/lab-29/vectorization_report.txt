@@ -1,0 +1,8 @@
+Lab 29: Text Vectorization Bag-of-Words and TF-IDF
+
+Bag-of-Words Accuracy: 1.0
+TF-IDF Accuracy: 1.0
+
+Bag-of-Words counts word frequency.
+TF-IDF gives importance to words based on frequency and rarity.
+Small datasets may not show reliable accuracy results.
