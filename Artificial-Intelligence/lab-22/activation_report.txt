@@ -1,0 +1,17 @@
+Lab 22: Intro to Activation Functions
+
+Dataset: Iris
+Model: Simple MLP
+
+Activation Function Results:
+Activation Function  Test Loss  Test Accuracy
+            sigmoid     0.1121         0.9667
+               tanh     0.0322         1.0000
+               relu     0.0211         1.0000
+         leaky_relu     0.0198         1.0000
+
+Observations:
+Sigmoid can suffer from vanishing gradients.
+Tanh usually performs better than sigmoid.
+ReLU often converges faster in neural networks.
+Leaky ReLU helps avoid the dying ReLU problem.

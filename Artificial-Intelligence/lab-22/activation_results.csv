@@ -1,0 +1,5 @@
+Activation Function,Test Loss,Test Accuracy
+sigmoid,0.1121,0.9667
+tanh,0.0322,1.0
+relu,0.0211,1.0
+leaky_relu,0.0198,1.0
