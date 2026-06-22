@@ -1,0 +1,8 @@
+Lab 16: Feature Scaling (Standardization)
+
+Accuracy without scaling: 0.35
+Accuracy with scaling: 0.35
+
+Observation:
+Feature scaling standardizes numerical features by removing the mean and scaling to unit variance.
+Models such as Logistic Regression generally perform better and converge faster when features are scaled.
