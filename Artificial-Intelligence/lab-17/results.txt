@@ -1,0 +1,17 @@
+Lab 17: Feature Selection & Importance
+
+Feature Ranking:
+          Feature  Importance
+petal length (cm)    0.439994
+ petal width (cm)    0.421522
+sepal length (cm)    0.108098
+ sepal width (cm)    0.030387
+
+Removed Features:
+['sepal width (cm)']
+
+Accuracy with all features: 1.00
+Accuracy with selected features: 1.00
+
+Conclusion:
+Feature selection reduces complexity and can maintain similar performance while removing less useful features.
