@@ -1,0 +1,6 @@
+Name,Age,Salary,normalized_salary,Department_Finance,Department_HR,Department_IT
+Alice,25.0,50000.0,0.0,False,True,False
+Bob,30.0,60000.0,0.5,False,False,True
+Charlie,29.5,55000.0,0.25,True,False,False
+David,28.0,58750.0,0.4375,False,False,True
+Emma,35.0,70000.0,1.0,False,True,False
