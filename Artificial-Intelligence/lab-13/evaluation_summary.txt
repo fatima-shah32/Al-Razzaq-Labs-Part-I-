@@ -1,0 +1,6 @@
+Brief Evaluation Summary
+
+The Random Forest Classifier performed strongly on the Iris dataset.
+The diagonal values in the confusion matrix show correct predictions.
+Precision, recall, and F1-score help evaluate classification quality.
+High values indicate that the model correctly classified most samples.
