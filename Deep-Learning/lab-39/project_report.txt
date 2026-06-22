@@ -1,0 +1,7 @@
+Lab 39 - Simple Capsule Network
+
+Dataset: MNIST
+Test Accuracy: 0.9868
+
+Architecture:
+Conv2D -> MaxPool -> Conv2D -> CapsuleLayer -> Dense
