@@ -1,0 +1,3 @@
+Evaluation_Method,Score
+Train-Test Split,1.0
+5-Fold Cross-Validation Mean,0.9733333333333334
