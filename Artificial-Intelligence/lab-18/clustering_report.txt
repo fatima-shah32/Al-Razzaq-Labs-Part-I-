@@ -1,0 +1,22 @@
+Lab 18: Intro to Clustering K-Means
+
+Dataset: Synthetic dataset generated using make_blobs
+Number of samples: 300
+Selected number of clusters: 4
+
+Elbow Method Inertia Values:
+k=1, inertia=2812.14
+k=2, inertia=1190.78
+k=3, inertia=546.89
+k=4, inertia=212.01
+k=5, inertia=188.77
+k=6, inertia=170.73
+k=7, inertia=154.89
+k=8, inertia=137.53
+k=9, inertia=123.76
+k=10, inertia=112.41
+
+Interpretation:
+K-Means grouped the data into 4 clusters based on distance.
+Centroids represent the center point of each cluster.
+The elbow method helps choose a suitable value of k.
