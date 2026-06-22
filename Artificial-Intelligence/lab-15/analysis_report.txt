@@ -1,0 +1,21 @@
+Lab 15: Overfitting vs. Underfitting
+
+Basic Training Score: 1.00
+Basic Validation Score: 1.00
+
+Scores by Max Depth:
+ Max_Depth  Training_Score  Validation_Score
+         1        0.647619          0.711111
+         2        0.942857          0.977778
+         3        0.952381          1.000000
+         4        0.971429          1.000000
+         5        0.990476          1.000000
+         6        1.000000          1.000000
+         7        1.000000          1.000000
+         8        1.000000          1.000000
+         9        1.000000          1.000000
+
+Analysis:
+A very shallow tree may underfit because it cannot learn enough patterns.
+A very deep tree may overfit because it can memorize training data.
+The best model is usually where training and validation scores are both high.
