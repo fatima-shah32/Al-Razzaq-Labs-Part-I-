@@ -1,0 +1,8 @@
+Lab 19: Simple Model Persistence Save & Load
+
+Model Used: RandomForestClassifier
+Dataset: Iris
+Model Accuracy: 1.0
+Saved Model File: random_forest_model.joblib
+Predicted Class Number: 1
+Predicted Class Name: versicolor
