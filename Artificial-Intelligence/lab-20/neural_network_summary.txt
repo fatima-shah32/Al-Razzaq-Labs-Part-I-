@@ -1,0 +1,35 @@
+Lab 20: Intro to Neural Networks Concept
+
+Weighted Sum: 2.7
+Sigmoid Output: 0.9370266439430035
+ReLU Output: 2.7
+
+
+Simple Neural Network Diagram
+
+Input Layer        Hidden Layer        Output Layer
+
+  X1  --------\
+               \ 
+  X2  ---------->   H1  --------\
+               /                 \ 
+  X3  --------/                   >   Output
+                                /
+                  H2  --------/
+
+
+Key Terminology:
+
+Neuron:
+A neuron is the basic unit of a neural network. It takes inputs,
+multiplies them by weights, adds them together, and passes the result
+through an activation function.
+
+Activation Function:
+An activation function adds non-linearity to the network. This helps
+the neural network learn complex patterns. Examples include Sigmoid
+and ReLU.
+
+Layers:
+Layers are groups of neurons. A neural network usually has an input
+layer, one or more hidden layers, and an output layer.
