@@ -1,0 +1,11 @@
+Lab 37: Introduction to Sequence-to-Sequence Models
+
+Model: Encoder GRU + Decoder GRU
+Dataset: Small sequence reversal dataset
+
+Input Sequence: [2, 3, 4]
+Predicted Output Sequence: [4, 3, 2]
+Expected Output Sequence: [4, 3, 2]
+
+Seq2Seq models convert one sequence into another sequence.
+Encoder processes the input sequence and decoder generates the output sequence.
