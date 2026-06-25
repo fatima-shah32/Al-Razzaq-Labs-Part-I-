@@ -1,0 +1,5 @@
+Simple API Inference Model Report
+
+Dataset: Iris
+Model: RandomForestClassifier
+Accuracy: 1.00
