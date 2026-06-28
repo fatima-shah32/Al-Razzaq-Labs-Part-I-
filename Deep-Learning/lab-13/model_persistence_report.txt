@@ -1,0 +1,12 @@
+Lab 13: Saving and Loading Deep Learning Models
+
+Tasks Completed:
+1. Created a simple neural network model.
+2. Saved model architecture to JSON.
+3. Saved model weights to HDF5.
+4. Loaded architecture from JSON.
+5. Restored weights from HDF5.
+6. Compared original and loaded model predictions.
+
+Maximum Prediction Difference: 0.0
+Result: Predictions match successfully.
