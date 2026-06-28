@@ -1,0 +1,18 @@
+Lab 07: Data Preprocessing for Deep Learning
+
+Step 1: Normalization
+MinMaxScaler was used to scale data into the range [0, 1].
+
+Step 2: Standardization
+StandardScaler was used to transform data with mean 0 and standard deviation 1.
+
+Step 3: Train-Test Split
+Data was split into 70% training and 30% testing using train_test_split.
+
+Training Features Shape: (70, 5)
+Testing Features Shape: (30, 5)
+Training Target Shape: (70,)
+Testing Target Shape: (30,)
+
+Conclusion:
+Preprocessing is important because it prepares raw data for deep learning models.
