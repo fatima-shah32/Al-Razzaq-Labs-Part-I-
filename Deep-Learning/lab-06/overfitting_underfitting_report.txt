@@ -1,0 +1,12 @@
+Lab 06: Overfitting and Underfitting
+
+Dataset: California Housing
+Reason: load_boston is removed in newer scikit-learn versions.
+
+Linear Regression Training Loss: 0.5179
+Linear Regression Validation Loss: 0.5559
+
+Interpretation:
+Overfitting occurs when training loss is low but validation loss is high.
+Underfitting occurs when both training and validation losses are high.
+Dropout can help reduce overfitting in neural networks.
