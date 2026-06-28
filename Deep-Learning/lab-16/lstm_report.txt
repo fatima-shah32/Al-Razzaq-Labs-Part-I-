@@ -1,0 +1,14 @@
+Lab 16: LSTM Networks for Sequence Modeling
+
+Dataset: Synthetic sine wave time-series data
+Task: Predict next value in a sequence
+
+Model Architecture:
+LSTM(50 units, ReLU) -> Dense(1)
+
+Number of time steps: 3
+Number of features: 1
+Final Training Loss: 0.000318
+
+Conclusion:
+The LSTM model learned sequence patterns from sine wave data and generated predictions.
