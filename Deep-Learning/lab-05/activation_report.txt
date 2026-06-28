@@ -1,0 +1,15 @@
+Lab 05: Exploring Activation Functions
+
+Activation functions tested: ReLU, Sigmoid, Tanh
+Dataset: Random synthetic dataset
+Model: Small feedforward neural network
+
+Final Loss Values:
+ReLU Final Loss: 0.0944
+Sigmoid Final Loss: 0.1356
+Tanh Final Loss: 0.1374
+
+Observation:
+ReLU usually learns quickly and is commonly used in hidden layers.
+Sigmoid can be useful but may suffer from vanishing gradients.
+Tanh centers outputs around zero and can converge better than sigmoid in some cases.
