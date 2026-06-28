@@ -1,0 +1,14 @@
+Lab 15: Introduction to Recurrent Neural Networks
+
+Dataset: Simple numerical sequence dataset
+Task: Predict next number in a sequence
+
+Example:
+Input: [0, 1, 2]
+Expected Output: 3
+
+Model Architecture:
+SimpleRNN(50 units, ReLU) -> Dense(1)
+
+Final Training Loss: 0.8988
+Predictions saved in rnn_predictions.csv
