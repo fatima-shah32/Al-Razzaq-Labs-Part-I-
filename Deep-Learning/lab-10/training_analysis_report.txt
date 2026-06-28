@@ -1,0 +1,16 @@
+Lab 10: Visualizing Training History
+
+Dataset: MNIST
+Model: Simple Neural Network
+
+Final Training Loss: 0.0234
+Final Validation Loss: 0.0861
+Final Training Accuracy: 0.9938
+Final Validation Accuracy: 0.9749
+Test Loss: 0.0788
+Test Accuracy: 0.9771
+
+Analysis:
+Training and validation curves help show model convergence.
+If training loss decreases but validation loss increases, the model may be overfitting.
+If both losses remain high, the model may be underfitting.
