@@ -1,0 +1,15 @@
+Lab 17: Exploring GRU Networks
+
+Dataset: Synthetic noisy sine wave time-series dataset
+Sequence Length: 50
+
+Model Comparison:
+GRU Test Loss: 0.002369
+LSTM Test Loss: 0.001797
+GRU Training Time: 18.10 seconds
+LSTM Training Time: 16.30 seconds
+
+Observation:
+GRU networks are simpler than LSTM networks because they use fewer gates.
+GRU models can train faster while still performing well on sequence data.
+LSTM models may perform better on longer or more complex sequences.
