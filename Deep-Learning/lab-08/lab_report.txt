@@ -1,0 +1,19 @@
+Lab 08: Working with the MNIST Dataset
+
+Task 1:
+Loaded the MNIST handwritten digit dataset using TensorFlow Keras.
+
+Task 2:
+Normalized image pixel values from 0-255 to 0-1.
+
+Task 3:
+Displayed and saved the first 10 handwritten digit images.
+
+Dataset Shapes:
+Training Images : (60000, 28, 28)
+Training Labels : (60000,)
+Testing Images  : (10000, 28, 28)
+Testing Labels  : (10000,)
+
+Conclusion:
+MNIST dataset was successfully imported, normalized, and visualized.
