@@ -1,0 +1,12 @@
+Lab 14: Building a Simple Autoencoder
+
+Dataset: MNIST
+Input Dimension: 784
+Encoding Dimension: 32
+Architecture: Input -> Dense Encoder -> Dense Decoder
+
+Final Training Loss: 0.0976
+Final Validation Loss: 0.0956
+
+Conclusion:
+The autoencoder learned to compress MNIST images into a smaller representation and reconstruct them.
