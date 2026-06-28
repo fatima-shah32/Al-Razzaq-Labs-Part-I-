@@ -1,0 +1,9 @@
+Confusion Matrix Interpretation
+
+Diagonal values show correct predictions.
+Off-diagonal values show classification errors.
+Precision shows how many predicted positives were correct.
+Recall shows how many actual positives were correctly identified.
+F1-score balances precision and recall.
+
+For this Iris dataset, the Decision Tree model performed strongly.
