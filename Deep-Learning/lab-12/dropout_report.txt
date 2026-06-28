@@ -1,0 +1,12 @@
+Lab 12: Implementing Dropout Regularization
+
+Dataset: MNIST
+Model: CNN with and without Dropout
+
+No Dropout Accuracy: 0.9875
+With Dropout Accuracy: 0.9845
+
+Observation:
+Dropout randomly disables neurons during training.
+This helps reduce overfitting and improves generalization.
+The model with dropout may train slightly slower but often performs better on unseen data.
