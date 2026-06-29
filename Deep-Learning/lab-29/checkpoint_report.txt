@@ -1,0 +1,18 @@
+Lab 29: Model Checkpointing
+
+Dataset: MNIST handwritten digits
+Model: Dense neural network
+
+Checkpoint Settings:
+Monitor: val_accuracy
+Save Best Only: True
+Save Weights Only: True
+Mode: max
+Checkpoint Path: checkpoints/best_model.weights.h5
+
+Current Model Test Accuracy: 0.9683
+Best Checkpoint Test Accuracy: 0.9688
+
+Observation:
+ModelCheckpoint saves the best model weights during training.
+Reloading the best checkpoint helps preserve the best validation performance.
