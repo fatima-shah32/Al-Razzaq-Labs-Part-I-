@@ -1,0 +1,32 @@
+Lab 27: Hyperparameter Tuning in Deep Learning
+
+Dataset: MNIST subset
+Hyperparameters Tuned:
+- Learning Rate: 0.001, 0.01, 0.1
+- Batch Size: 16, 32, 64
+
+Results:
+ Learning_Rate  Batch_Size  Test_Loss  Test_Accuracy  Training_Time_Seconds  Final_Validation_Accuracy  Final_Validation_Loss
+         0.001          16   0.259925         0.9155              11.739838                      0.941               0.193990
+         0.001          32   0.249196         0.9230               7.001254                      0.940               0.191740
+         0.001          64   0.263498         0.9200               4.715536                      0.945               0.188366
+         0.010          16   0.379994         0.9065              11.400466                      0.929               0.311377
+         0.010          32   0.420355         0.9080               6.923677                      0.931               0.346204
+         0.010          64   0.270963         0.9360               4.757623                      0.949               0.198965
+         0.100          16   2.146590         0.4445              12.227723                      0.518               1.462179
+         0.100          32   1.233413         0.6865               6.827413                      0.755               0.958618
+         0.100          64   0.768812         0.8400               4.396942                      0.863               0.615569
+
+Best Result:
+Learning_Rate                 0.010000
+Batch_Size                   64.000000
+Test_Loss                     0.270963
+Test_Accuracy                 0.936000
+Training_Time_Seconds         4.757623
+Final_Validation_Accuracy     0.949000
+Final_Validation_Loss         0.198965
+
+Observation:
+Learning rate controls update size during training.
+Batch size controls how many samples are used per weight update.
+Very high learning rates can reduce stability, while moderate values often work better.
