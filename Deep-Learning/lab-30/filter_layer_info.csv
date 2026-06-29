@@ -1,0 +1,2 @@
+Layer_Name,Filter_Shape,Bias_Shape,Number_of_Filters
+block1_conv1,"(3, 3, 3, 64)","(64,)",64

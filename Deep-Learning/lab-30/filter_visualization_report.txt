@@ -1,0 +1,17 @@
+Lab 30: Visualizing Convolutional Filters
+
+Model Used: VGG16 pretrained on ImageNet
+Selected Layer: block1_conv1
+Filter Shape: (3, 3, 3, 64)
+Number of Filters: 64
+
+Interpretation:
+The first convolutional layer usually learns simple visual patterns.
+These patterns may include edges, lines, color gradients, and texture detectors.
+Early CNN filters detect low-level features, while deeper layers detect complex shapes.
+
+Generated Files:
+- vgg16_block1_conv1_filters.png
+- vgg16_rgb_filter_patterns.png
+- filter_layer_info.csv
+- filter_statistics.csv
