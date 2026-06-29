@@ -1,0 +1,15 @@
+Lab 19: Building a Simple Embedding Layer
+
+Dataset: Small sentiment text dataset
+Vocabulary Size Setting: 1000
+Embedding Dimension: 50
+Maximum Sequence Length: 10
+Training Accuracy: 1.0000
+
+Word Index:
+{'this': 1, 'is': 2, 'movie': 3, 'film': 4, 'i': 5, 'story': 6, 'good': 7, 'excellent': 8, 'love': 9, 'amazing': 10, 'bad': 11, 'terrible': 12, 'hate': 13, 'boring': 14}
+
+Observation:
+The embedding layer converts words into dense vectors.
+These vectors are learned during training and can capture simple relationships from text data.
+t-SNE was used to reduce embeddings to 2D for visualization.
