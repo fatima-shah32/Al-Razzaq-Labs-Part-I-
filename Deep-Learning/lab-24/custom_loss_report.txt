@@ -1,0 +1,16 @@
+Lab 24: Custom Loss Functions in Keras
+
+Custom loss implemented:
+custom_mse = mean(square(y_true - y_pred))
+
+Dataset: Synthetic regression dataset
+Model: Dense neural network
+
+Results:
+       Model  Validation_Loss  Validation_MAE
+  Custom MSE         0.095587        0.264455
+Built-in MSE         0.097193        0.268230
+
+Observation:
+Custom loss functions allow flexible model training for specific problems.
+The custom MSE behaved similarly to built-in MSE because both compute mean squared error.
