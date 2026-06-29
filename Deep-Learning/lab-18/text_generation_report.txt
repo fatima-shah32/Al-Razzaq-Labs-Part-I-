@@ -1,0 +1,16 @@
+Lab 18: Text Generation with RNNs
+
+Dataset: Small Alice-inspired text corpus
+Text Length: 291 characters
+Unique Characters: 23
+Sequence Length: 40
+Number of Sequences: 251
+
+Model Architecture:
+LSTM(128) -> Dense(vocabulary size, softmax)
+
+Generated Text:
+ alice was beginning to get very tired o  e   e   e   e   e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e    e 
+
+Observation:
+Character-level RNNs can learn local character patterns but may generate repetitive or imperfect text on small datasets.
