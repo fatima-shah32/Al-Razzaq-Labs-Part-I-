@@ -1,0 +1,18 @@
+Lab 28: Implementing Early Stopping
+
+Dataset: Synthetic binary classification dataset
+Model: Dense neural network
+
+Early Stopping Settings:
+Monitor: val_loss
+Patience: 5
+Restore Best Weights: True
+
+Maximum Epochs: 100
+Actual Epochs Completed: 6
+Validation Loss: 0.6855
+Validation Accuracy: 0.5450
+
+Observation:
+Early stopping stops training when validation loss stops improving.
+It saves training time and helps reduce overfitting.
