@@ -1,0 +1,14 @@
+Lab 23: Experimenting with Different Optimizers
+
+Dataset: MNIST
+Optimizers Compared: SGD, Adam, RMSprop
+
+Optimizer  Test_Loss  Test_Accuracy  Final_Train_Accuracy  Final_Validation_Accuracy
+      SGD   0.333959         0.9072              0.900000                     0.9072
+     Adam   0.091007         0.9716              0.978900                     0.9716
+  RMSprop   0.085646         0.9738              0.978917                     0.9738
+
+Observation:
+SGD is simple but may converge slower.
+Adam adapts learning rates and often performs well quickly.
+RMSprop is also adaptive and commonly works well for sequence-based tasks.
