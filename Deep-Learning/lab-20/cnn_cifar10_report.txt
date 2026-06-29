@@ -1,0 +1,13 @@
+Lab 20: CNN for Basic Image Classification
+
+Dataset: CIFAR-10
+Classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
+
+Model Architecture:
+Conv2D -> MaxPooling2D -> Conv2D -> MaxPooling2D -> Flatten -> Dense -> Softmax
+
+Test Loss: 0.9253
+Test Accuracy: 69.34%
+
+Conclusion:
+The CNN model was trained on CIFAR-10 images and evaluated using classification accuracy.
