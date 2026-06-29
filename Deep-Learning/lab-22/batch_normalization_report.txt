@@ -1,0 +1,15 @@
+Lab 22: Batch Normalization in Deep Networks
+
+Dataset: MNIST
+Model Type: Feedforward Neural Network
+
+Comparison Results:
+Accuracy with Batch Normalization: 0.9733
+Accuracy without Batch Normalization: 0.9746
+Training Time with Batch Normalization: 30.80 seconds
+Training Time without Batch Normalization: 26.94 seconds
+
+Observation:
+Batch Normalization stabilizes training by normalizing layer activations.
+It can improve convergence speed and help the model generalize better.
+Performance may vary depending on dataset, architecture, and training settings.
