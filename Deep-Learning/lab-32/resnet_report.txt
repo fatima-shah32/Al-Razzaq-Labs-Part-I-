@@ -1,0 +1,15 @@
+Lab 32: Building a Residual Block ResNet Basic Version
+
+Dataset: CIFAR-10 subset
+
+Residual Block:
+Conv2D -> BatchNorm -> ReLU -> Conv2D -> BatchNorm -> Add Shortcut -> ReLU
+
+Comparison Results:
+       Model  Test_Loss  Test_Accuracy  Training_Time_Seconds
+Basic ResNet   2.245403         0.4110            1266.288363
+Standard CNN   1.732481         0.4135             323.132731
+
+Observation:
+Residual connections help information flow through the network.
+They reduce vanishing gradient problems and can improve deeper CNN training.
