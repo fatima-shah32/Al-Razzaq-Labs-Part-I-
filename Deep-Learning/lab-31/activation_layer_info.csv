@@ -1,0 +1,5 @@
+Layer_Name,Activation_Shape,Number_of_Feature_Maps
+block1_conv1,"(1, 224, 224, 64)",64
+block1_conv2,"(1, 224, 224, 64)",64
+block2_conv1,"(1, 112, 112, 128)",128
+block2_conv2,"(1, 112, 112, 128)",128
